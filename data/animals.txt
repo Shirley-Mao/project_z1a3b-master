@@ -1,0 +1,7 @@
+lily,cat,2,fracture,false,painkiller,DrV
+bob,dog,4,fever,false,QOP,Dr Wang
+fluffy,cat,5,fracture,false,painkiller,Dr V
+jo,dog,5,none,false,none,none
+kitty,bird,1,cold,false,ABC,Dr Yu
+kaisa,dog,5,food poison,false,PPO,Dr Ju
+charlie,cat,10,none,true,none,none

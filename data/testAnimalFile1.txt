@@ -1,0 +1,2 @@
+lily,cat,2,fracture,false,painkiller,Dr.V
+bob,dog,3,tick,true,med,Dr.T
